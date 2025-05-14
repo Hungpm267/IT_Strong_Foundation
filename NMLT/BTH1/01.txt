@@ -1,0 +1,10 @@
+📝 Đề bài:
+Viết chương trình nhập vào một biển số xe gồm 4 chữ số từ bàn phím. Nếu người dùng nhập sai (không phải số có 4 chữ số), yêu cầu nhập lại cho đến khi đúng.
+
+Sau khi nhập đúng, chương trình thực hiện:
+
+Tách từng chữ số của biển số (hàng nghìn, trăm, chục, đơn vị).
+
+Tính tổng các chữ số, sau đó lấy phần dư của tổng chia cho 10.
+
+In ra kết quả cuối cùng.
