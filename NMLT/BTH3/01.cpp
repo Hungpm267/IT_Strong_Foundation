@@ -17,7 +17,7 @@ int prime(int x)
     return 1;
 }
 int main()
-{
+{ 
     cout << "Nhap 10 so nguyen: " << endl;
     cin >> a[0] >> a[1];
     i = 1;
