@@ -86,6 +86,9 @@ def main():
         case 4:
             str = obj.bai4_camelize()
             print(f'camelize chuoi la: {str}')
+        case 5:
+            a = 'hllo'
+            print(type(a))
         case default:
             return "nothing"
 
