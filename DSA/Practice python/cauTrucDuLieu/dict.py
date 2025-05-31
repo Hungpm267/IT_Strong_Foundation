@@ -17,6 +17,7 @@ class baitap():
             else:
                 dict[num] = 1
         if not dict:
+            print("Dictionary này đang rỗng!")  # ✅ Sẽ in ra dòng này
             return None
         else:
             for key, value in dict.items():
