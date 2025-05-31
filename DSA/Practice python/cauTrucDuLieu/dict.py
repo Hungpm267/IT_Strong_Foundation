@@ -71,6 +71,9 @@ if __name__ == '__main__':
 
 
 """
+num in dict kiểm tra xem num có xuất hiện trong dictionary hay chưa.
+
+if not dict kiểm tra xem dictionary có rỗng hay không.
 =======================================================================================================
  max(frequency)
 ➡️ Trả về key lớn nhất, theo giá trị của key chứ không phải value.
