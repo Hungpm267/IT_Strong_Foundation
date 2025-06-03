@@ -23,6 +23,20 @@ class baitap():
             for key, value in dict.items():
                 print(f'{key} xuat hien: {value} lan')
             return max(dict, key=dict.get)
+        # cách 2:
+        # self.list.sort()
+        # max_count = 1
+        # cnt = 1
+
+        # for index in range(1, len(self.list)):
+        #     if self.list[index] == self.list[index-1]:
+        #         cnt +=1
+        #     else:
+        #         cnt = 0
+
+        #     if cnt > max_count:
+        #         max_count = cnt 
+        # return max_count
 
     def getMostLongestKey(self) -> str:
         dict = {
